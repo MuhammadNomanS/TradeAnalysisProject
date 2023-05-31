@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TradeAnalysisProject": {
+      "commandName": "Project",
+      "commandLineArgs": "sreclr 20221230 20230101"
+    }
+  }
+}

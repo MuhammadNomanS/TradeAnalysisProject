@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TradeAnalysisProject", "TradeAnalysisProject\TradeAnalysisProject.csproj", "{9F4ABFC9-48EC-4DC4-8B7F-6892ADCC73AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataDumper", "DataDumper\DataDumper.csproj", "{FA26393C-224C-4EA1-8155-CBD75E650199}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F4ABFC9-48EC-4DC4-8B7F-6892ADCC73AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F4ABFC9-48EC-4DC4-8B7F-6892ADCC73AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F4ABFC9-48EC-4DC4-8B7F-6892ADCC73AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F4ABFC9-48EC-4DC4-8B7F-6892ADCC73AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA26393C-224C-4EA1-8155-CBD75E650199}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA26393C-224C-4EA1-8155-CBD75E650199}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA26393C-224C-4EA1-8155-CBD75E650199}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA26393C-224C-4EA1-8155-CBD75E650199}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C0076BBD-134F-4132-9817-E799BAC29F07}
+	EndGlobalSection
+EndGlobal
